@@ -1,2 +1,2 @@
-# landing
+# index
 page 
